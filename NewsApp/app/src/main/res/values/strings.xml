@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="Topapp_text_name">Haberin</string>
+    <string name="Topapp_text_names">var mı</string>
+    <string name="Topapp_text_search">Ara</string>
+    <string name="Topapp_button_search">Listele</string>
+</resources>
